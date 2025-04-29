@@ -1,0 +1,32 @@
+{
+    "prayers": [
+      {
+        "title": "الأذكار الموسمية",
+        "url": "https://d1.islamhouse.com/data/ar/ih_books/single/ar_athkar_almushafiah.pdf"
+      },
+      {
+        "title": "أدعية رمضان",
+        "url": "https://ar.islamway.net/collection/4746/%D8%A3%D8%AF%D8%B9%D9%8A%D8%A9-%D8%B1%D9%85%D8%B6%D8%A7%D9%86"
+      }
+    ],
+    "quran": [
+      {
+        "title": "القرآن الكريم بقراءات متعددة",
+        "url": "https://quran.ksu.edu.sa/"
+      },
+      {
+        "title": "تلاوات للقراء المشهورين",
+        "url": "https://server.mp3quran.net/"
+      }
+    ],
+    "lessons": [
+      {
+        "title": "دروس رمضانية",
+        "url": "https://ar.islamway.net/lessons?month=9"
+      },
+      {
+        "title": "سلسلة دروس رمضان",
+        "url": "https://www.youtube.com/playlist?list=PLxI8Ct9zH7e8jQ1uFQJiV1J3T1T1Z1Z1Z"
+      }
+    ]
+  }
